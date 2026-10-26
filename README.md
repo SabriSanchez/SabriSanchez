@@ -14,12 +14,7 @@
 
 ---
 
-### About Me
-
-- 🔭 **Currently learning at:** [42 Barcelona](https://www.42barcelona.com) (Advanced C & Python programming, RAG architectures, LLMs, and security best practices).
-- 🛡️ **Specialty:** Secure web development, vulnerability analysis, and defensive/offensive cybersecurity.
-- 📍 **Location:** Barcelona, Spain.
-- 💬 **Ask me about:** Cybersecurity, PHP, Python, C, SAST, and web development.
+I am a detail-oriented Software & Security Specialist with a Master's degree in Cybersecurity and a background in web development. Skilled in Python, C, PHP, and MySQL, I combine practical experience in machine learning, LLMs, and AppSec to deliver secure, high-quality solutions across software, data, and security.
 
 ---
 ## 📂 Selected Projects
