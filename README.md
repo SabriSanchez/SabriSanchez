@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/dragon.jpeg" alt="Dragon Banner" width="100%" height="350" />
+  <img src="./assets/dragon_security.jpeg" alt="Dragon Banner" width="100%" height="350" />
 </p>
 
 <p align="center">
