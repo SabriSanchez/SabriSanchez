@@ -20,7 +20,6 @@
 - 🛡️ **Specialty:** Secure web development, vulnerability analysis, and defensive/offensive cybersecurity.
 - 📍 **Location:** Barcelona, Spain.
 - 💬 **Ask me about:** Cybersecurity, PHP, Python, C, SAST, and web development.
-- ⚡ **Fun fact:** Combining the analytical rigor of my scientific background with secure software development and systems management.
 
 ---
 ## 📂 Selected Projects
