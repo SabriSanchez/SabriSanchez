@@ -57,6 +57,6 @@ I am a detail-oriented Software & Security Specialist with a Master's degree in 
 
 ### Education & Milestones
 
-- 🎓 **Master’s Degree in IT Cybersecurity** *(Linkia, 2024–2025)* — Security auditing for SME infrastructures, attack simulation, and secure coding lifecycle.
-- 💻 **42 Barcelona** *(2025–2026)* — Project-based programming, AI integration (LLMs, RAG), and security best practices (SAST).
-- 📱 **HND / Associate Degree in Web Application Development (DAW)** *(Linkia, 2022–2024)* — Web architectures, backend/frontend engineering, and database management.
+- 🎓 **Master’s Degree in IT Cybersecurity**  — Security auditing for SME infrastructures, attack simulation, and secure coding lifecycle.
+- 💻 **42 Barcelona** — Project-based programming, AI integration (LLMs, RAG), and security best practices (SAST).
+- 📱 **HND / Associate Degree in Web Application Development (DAW)** — Web architectures, backend/frontend engineering, and database management.
