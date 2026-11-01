@@ -14,11 +14,12 @@
 
 ---
 
-I am a detail-oriented Software & Security Specialist with a Master's degree in Cybersecurity and a background in web development. Skilled in Python, C, PHP, and MySQL, I combine practical experience in machine learning, LLMs, and AppSec to deliver secure, high-quality solutions across software, data, and security.
+I am a detail-oriented Software & Security Specialist with a Master's degree in Cybersecurity and a background in web development.
+Skilled in Python, C, PHP, and MySQL, I combine practical experience in machine learning, LLMs, and AppSec to deliver secure, high-quality solutions across software, data, and security.
 
 ---
 ## 📂 Selected Projects
-**[RAG against the machine](https://github.com/SabriSanchez/RAG-against-the-machine)** — Repository-Scale Hybrid Retrieval
+**[secure RAG](https://github.com/SabriSanchez/secure-RAG)** — Repository-Scale Hybrid Retrieval
 
 **[Call Me Maybe](https://github.com/SabriSanchez/Call_me_Maybe)** — LLM Constrained Decoding
 
